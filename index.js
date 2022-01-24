@@ -660,18 +660,18 @@ let settingstatus = 0;
 				Semoga harimu menyenangkan
 				
 INFO CREATOR BOT
-*Nama : Aprilia*
-*Instagram : @aprigans_*
-*YouTube : BOT INDO*
-*Link Yt : https://www.youtube.com/c/BOTINDO*
-*WhatsApp : wa.me/628811929177*
+*Nama : BAYU RIZKY*
+*Instagram : @bayuganz_665*
+*YouTube : BAYU OFC*
+*Link Yt : https://youtube.com/channel/UCWiOXqGm9mPfPWlDntbMVdQ*
+*WhatsApp : wa.me/6289525518325*
 
 -----------------------------------•
 
 INFO BOT
 *Nama Bot : ${namabot}*
-*Author : Aprilia*
-*Base : Mhankbarbar*
+*Author : BAYU OFC*
+*Base : BAYU OFC*
 *Library : Bailey*
 *Nama Owner : ${namaowner}*
 *Owner Number : wa.me/${owner}*
@@ -707,13 +707,7 @@ _${prefix}iklan_
 _${prefix}sc_
 
 *THANKS TO*
-• MHANKBARBAR (LORD MASTAH)
-• ARIFI RAZZAQ (MASTAH)
-• SENKU (MASTAH)
-• ARDY (MASTAH)
-• FINX (MASTAH)
-• DINATA (MASTAH)
-• APRILIA (NEWBIE)
+• BAYU OFC (LORD MASTAH)
 • PENYEDIA MODULE
 • PENYEDIA REST API'S
 `
@@ -731,19 +725,19 @@ SEMOGA HARIMU MENYENANGKAN
 -----------------------------------•
 
 INFO CREATOR BOT
-*Nama : Aprilia*
-*Instagram : @aprigans_*
-*YouTube : BOT INDO*
-*Link Yt : https://www.youtube.com/c/BOTINDO*
-*WhatsApp : wa.me/628811929177*
+*Nama : BAYU RIKZY*
+*Instagram : @bayuganz_665*
+*YouTube : BAYU OFC*
+*Link Yt : https://youtube.com/channel/UCWiOXqGm9mPfPWlDntbMVdQ*
+*WhatsApp : wa.me/6289525518325*
 
 -----------------------------------•
 
 INFO BOT
 *Nama Bot : ${namabot}*
-*Author : Aprilia*
-*Base : Mhankbarbar*
-*Library : Bailey*
+*Author : BAYU OFC*
+*Base : BAYU OFC*
+*Library : Baileys*
 *Nama Owner : ${namaowner}*
 *Owner Number : wa.me/${owner}*
 
@@ -1093,13 +1087,7 @@ _${prefix}komiku_
 _${prefix}ppcp_
 
 *THANKS TO*
-• MHANKBARBAR (LORD MASTAH)
-• ARIFI RAZZAQ (MASTAH)
-• SENKU (MASTAH)
-• ARDY (MASTAH)
-• FINX (MASTAH)
-• DINATA (MASTAH)
-• APRILIA (NEWBIE)
+• BAYU OFC (LORD MASTAH)
 • PENYEDIA MODULE
 • PENYEDIA REST API'S
 `
@@ -1126,8 +1114,8 @@ case 'sewabot':
 │ *「 INFO BOT 」*
 │➛*Nama Bot* : ${namabot}
 │➛*Versi* : 1.0.0
-│➛*Creator* : Prii
-│➛*Youtube* : BOT INDO
+│➛*Creator* : BAYU OFC
+│➛*Youtube* : BAYU OFC
 ╰┬────────────┈ ⳹
    │ *「HARGA SEWA 」* 
    │➛ *1 BULAN* : 10K
@@ -1143,7 +1131,7 @@ case 'sewabot':
     break
 case 'script':
 case 'sc':
-ngontol = `*SCRIPT BOT WA BAKAL UPDATE DI YT BOT INDO V4 NIH LINKNYA*\n*https://www.youtube.com/c/BOTINDO*\n*V4 WORK DI HEROKU*`
+ngontol = `*SCRIPT BOT WA BAKAL UPDATE DI YT BOT INDO V4 NIH LINKNYA*\n*https://youtube.com/channel/UCWiOXqGm9mPfPWlDntbMVdQ*\n*V4 WORK DI HEROKU*`
 reply (ngontol)
 break
 case 'donasi':
@@ -1571,7 +1559,7 @@ _${prefix}grafitytext_
 _${prefix}narutobanner_
 _${prefix}tahta_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}owner`, buttonText: {displayText: 'OWNER BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -1593,7 +1581,7 @@ tete = [
 ttbut = {
 imageMessage: pnn.message.imageMessage,
 contentText: `Hai Kak ${pushname} Bot Telah Menmekatkan Title Tersebut , Silahkan Pilih Tombol Akses Di Bawah`,
-footerText: `_*© BOT INDO*_`,
+footerText: `_*© MIKASA-BOT*_`,
 buttons: tete,
 headerType: 4
 }
@@ -1717,7 +1705,7 @@ tete = [
 ttbut = {
 imageMessage: pnn.message.imageMessage,
 contentText: TITLE,
-footerText: `_*© Aprilia*_`,
+footerText: `_*© MIKASA-BOT*_`,
 buttons: tete,
 headerType: 4
 }
@@ -1855,7 +1843,7 @@ _${prefix}igdl_
 _${prefix}mediafire_
 _${prefix}facebook_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}owner`, buttonText: {displayText: 'OWNER BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -2359,7 +2347,7 @@ _${prefix}sadgirl_
 _${prefix}group_
 _${prefix}meme_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}owner`, buttonText: {displayText: 'OWNER BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -2637,7 +2625,7 @@ _${prefix}setppbot_
 _${prefix}clearall_
 _${prefix}kickall_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -2670,7 +2658,7 @@ _${prefix}bocil_
 _${prefix}ghea_
 _${prefix}rikagusriani_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -2690,7 +2678,7 @@ if (!isGroup) return reply(mess.only.group)
 
             const ButonsMerssages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© By BAYU OFC_`,
 
             buttons: buttons,
 
@@ -2753,7 +2741,7 @@ const sa = await client.prepareMessage(from, buffer, MessageType.image)
 
             const ButonsMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© By BAYU OFC_`,
 
             buttons: butons,
 
@@ -2777,7 +2765,7 @@ const sa = await client.prepareMessage(from, buffer, MessageType.image)
 
             const ButtonMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© By BAYU OFC_`,
 
             buttons: buttosn,
 
@@ -2822,7 +2810,7 @@ _${prefix}panties_
 _${prefix}pussy_
 _${prefix}things_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -2850,7 +2838,7 @@ _${prefix}artinama_
 _${prefix}tebakumur_
 *DIKIT YE BRO SOALNYA BANYAK ERORNYA🙂*
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3060,7 +3048,7 @@ _${prefix}bokep22_
 _${prefix}bokep23_
 _${prefix}bokep24_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3093,7 +3081,7 @@ _${prefix}kisahnabi_
 
 *MARI BERHIJRAH*
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3641,7 +3629,7 @@ _${prefix}sound67_
 _${prefix}sound68_
 _${prefix}sound69_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3737,7 +3725,7 @@ _${prefix}attp_
 _${prefix}ttp_
 _${prefix}smeme_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3876,7 +3864,7 @@ _${prefix}otaku_
 _${prefix}komiku_
 _${prefix}ppcp_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3919,7 +3907,7 @@ _${prefix}upswimage_
 _${prefix}upswvideo_
 _${prefix}upswteks_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY BAYU OFC*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
